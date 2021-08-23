@@ -5,7 +5,7 @@ How to execute windows command line from Java.
 
 ![image](https://user-images.githubusercontent.com/5441882/130453384-e209e125-8deb-4d72-b510-034d3872c97a.png)
 
-## Optionally, as seen below, if you want, you can call the command line via a button as a desktop application.
+## As seen below, Optionally if you want you can call the command line via a button as a desktop application.
 
 ![image](https://user-images.githubusercontent.com/5441882/130457182-39fe5404-ad3b-42ed-8a9e-4b2404d3cf7a.png)
 
